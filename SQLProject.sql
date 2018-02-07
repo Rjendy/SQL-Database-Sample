@@ -151,6 +151,7 @@ WHERE
 	Book.Title = 'The Lost Tribe' AND
 	Library_Branch.Branch_Name = 'Sharpstown'
 ;
+GO
 
 EXEC PROC01
 
